@@ -9,6 +9,7 @@
       video.play();
     });
   }
+
   
   plyr.setup(video);
 })();
