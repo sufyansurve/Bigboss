@@ -10,6 +10,5 @@
     });
   }
 
-  
   plyr.setup(video);
 })();
